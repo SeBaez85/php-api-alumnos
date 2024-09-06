@@ -1,0 +1,16 @@
+{
+    "name": "sebaez/backend",
+    "autoload": {
+        "psr-4": {
+            "Sebaez\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SeBaez"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
